@@ -1,0 +1,85 @@
+body {
+    background-color: #85dcb8;
+}
+
+
+.Menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #41b3a3;
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: blue;
+  }
+  
+  .active {
+    background-color:#e8a87c ;
+  }
+
+
+h1 {
+  font-family: "Lucida Console";
+  font-size: 70px;
+  text-align: center;
+}
+
+title {
+  text-align: center;
+}
+
+.chart {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.first {
+  text-indent: 50px;
+}
+
+img {
+  border-radius: 30px; color: #c38d93;
+  border: 10px solid;
+  /*padding: 1px; color: #e8a87c;*/
+  width: 50%;
+  height: 50%;
+}
+
+ul.myUL {
+  display: inline-block;
+  text-align: left;
+  width: 50%;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+.container {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+
+
+
